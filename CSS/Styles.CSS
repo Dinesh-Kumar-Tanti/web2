@@ -1,0 +1,146 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color:#E4F9F5;
+}
+
+.para{
+  font-size: 1.5rem;
+  font-family: 'Merriweather', serif;
+}
+p{
+    line-height: 2;
+}
+
+h1{
+  color:#4C0027;
+  margin-top: 50px;
+  font-size: 6.200rem;
+  font-family: 'Great Vibes', cursive;
+  margin: 0 auto 0 auto;
+
+}
+h2{
+  padding-bottom: 10px;
+  color:#4C0027;
+  font-family: 'El Messiri', sans-serif;
+  font-weight: normal;
+}
+h3{
+  color: #4C0027;
+  font-family: 'El Messiri', sans-serif;
+}
+
+hr{
+  border:dotted grey ;
+  border-bottom: none;
+  width:4%;
+  margin:100px auto;
+}
+
+a{
+  color: #630606;
+  font-family: 'Merriweather', serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#eaf6f6;
+}
+
+.intro{
+  width:30%;
+  margin:auto;
+}
+
+.contact-me{
+  width:40%;
+  margin:40px auto 60px;
+}
+
+.copyright{
+  color:#eaf6f6;
+  font-size:0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #fa5ad5;
+  background-image: -webkit-linear-gradient(top, #fa5ad5, #2dced4);
+  background-image: -moz-linear-gradient(top, #fa5ad5, #2dced4);
+  background-image: -ms-linear-gradient(top, #fa5ad5, #2dced4);
+  background-image: -o-linear-gradient(top, #fa5ad5, #2dced4);
+  background-image: linear-gradient(to bottom, #fa5ad5, #2dced4);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+    font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.skill-row{
+  margin:100px auto 100px auto;
+  width:50%;
+ text-align: left;
+
+
+}
+
+.code-img{
+  margin-right: 30px;
+  width: 30%;
+  float: left;
+
+}
+.chilli-img{
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+.top-container{
+  background-color:#E4F9F5;
+  position: relative;
+  padding-top:100px;
+  width: auto;
+
+}
+
+.middle-container{
+margin:100px auto 100px auto;
+}
+.last-container{
+background-color: #006778;
+padding: 30px 0 20px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-cloud{
+position:absolute;
+left:1000px;
+top:50px;
+}
+
+
+.bottom-cloud{
+  position:absolute;
+  left:270px;
+  top:200px;
+}
